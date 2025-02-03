@@ -5,6 +5,7 @@ var email = 'mailto:aalibi@chilesotti.it';
 hayden = [
     "<br>", 
     "coglione", 
+    "charizard", 
     "<br>" 
 ];
 whois = [

@@ -2,12 +2,6 @@ var password = "0000";
 var github = "https://github.com/ownedalaa";
 var email = 'mailto:aalibi@chilesotti.it';
 
-hayden = [
-    "<br>", 
-    "coglione", 
-    "charizard", 
-    "<br>" 
-];
 whois = [
     "<br>",
     "Hey, Sono Alaà!👋",

@@ -152,7 +152,7 @@ function commander(cmd) {
             loopLines(banner, "", 80);
             break;
         case "hayden":
-            loopLines(hayden, "", 80);
+            loopLines(hayden, "color2", 80);
             break;
             
         // socials

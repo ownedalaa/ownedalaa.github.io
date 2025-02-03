@@ -151,7 +151,10 @@ function commander(cmd) {
         case "banner":
             loopLines(banner, "", 80);
             break;
-
+        case "hayden":
+            loopLines(hayden, "", 80);
+            break;
+            
         // socials
         case "youtube":
             addLine("Sto aprendo YouTube...", "color2", 80);
